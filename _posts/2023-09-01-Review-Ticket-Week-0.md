@@ -4,7 +4,7 @@ comments: true
 title: Review Ticket Week 0
 layout: post
 description: My review ticket for week 0
-courses: { compsci: {week: 0}}
+courses: { csp: {week: 0}}
 type: tangibles
 ---
 
