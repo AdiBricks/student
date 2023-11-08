@@ -3,9 +3,12 @@ toc: true
 comments: true
 title: 1Colllegeboard Study + Plans
 layout: post
-description: Link to all mt collegeboard work, studying, etc
-courses: { csp: {week: 5}}
+description: Link to all my collegeboard work, studying, etc
+courses: { csp: {week: 10}}
 type: tangibles
 ---
 
-<iframe width="560" height="315" src="https://youtube.com/embed/OY9e1I9XbbQ" frameborder="0" allowfullscreen></iframe>
+Link: https://docs.google.com/presentation/d/1JLZ4eVldcwnaeG0eKoIVfz5gt4dBIYDhp0Hj0wtLjeY/edit?usp=sharing
+
+
+<iframe src="https://docs.google.com/presentation/d/e/1JLZ4eVldcwnaeG0eKoIVfz5gt4dBIYDhp0Hj0wtLjeY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
