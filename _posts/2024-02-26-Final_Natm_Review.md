@@ -3,12 +3,12 @@ toc: true
 comments: true
 title: natm review
 layout: post
-description: CB Quiz
+description: CPT Final Review
 courses: { csp: {week: 18}}
 type: plans
 ---
 
-# Project Summary:
+# Project Summary: 
 - Our CPT project allows players to access a game universe, where they can build their own games, test it, draw new things, and play some cool games. They can personalize their accounts by choosing their favorite game, and they can update their username and password whenever they want. 
 
 # My Features:
