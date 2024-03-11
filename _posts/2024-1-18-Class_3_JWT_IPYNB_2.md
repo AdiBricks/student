@@ -1,10 +1,11 @@
 ---
+toc: False
 comments: True
-layout: notebook
-title: Class 3- JWT Implimentation
-description: Teamteach by Lindsay, Anika, Grace, Samhita
-type: collab
-courses: {'csp': {'week': 19}}
+layout: post
+title: NATMTri2 Blog
+description: Blog from Night at the Museum Tri 2
+type: plans
+courses: {'csp': {'week': 15}}
 ---
 
 # JWT Implimentation
